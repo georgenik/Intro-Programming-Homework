@@ -1,0 +1,11 @@
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb
+C:\Users\georgi\Desktop\Telerik domashno\CSharp1\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\CSharp1\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+C:\Users\georgi\Desktop\Telerik domashno\CSharp1\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb

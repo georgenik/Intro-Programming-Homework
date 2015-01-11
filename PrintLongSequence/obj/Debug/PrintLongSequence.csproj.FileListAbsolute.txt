@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

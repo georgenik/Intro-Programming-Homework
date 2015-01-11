@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\SquareRoot\obj\Debug\SquareRoot.pdb

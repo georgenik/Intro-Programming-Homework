@@ -1,0 +1,9 @@
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\CurentDateAndTime\bin\Debug\CurentDateAndTime.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\CurentDateAndTime\bin\Debug\CurentDateAndTime.exe
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\CurentDateAndTime\bin\Debug\CurentDateAndTime.pdb
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\CurentDateAndTime\obj\Debug\CurentDateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\CurentDateAndTime\obj\Debug\CurentDateAndTime.exe
+C:\Users\georgi\Desktop\Telerik domashno\1.Introduction to Programming\Intro-Programming-Homework\Solution1\CurentDateAndTime\obj\Debug\CurentDateAndTime.pdb
+C:\Users\georgi\Desktop\Telerik domashno\CSharp1\Intro-Programming-Homework\CurentDateAndTime\bin\Debug\CurentDateAndTime.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\CSharp1\Intro-Programming-Homework\CurentDateAndTime\obj\Debug\CurentDateAndTime.exe
+C:\Users\georgi\Desktop\Telerik domashno\CSharp1\Intro-Programming-Homework\CurentDateAndTime\obj\Debug\CurentDateAndTime.pdb
